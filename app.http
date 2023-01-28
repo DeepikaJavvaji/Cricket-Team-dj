@@ -2,5 +2,11 @@ http://localhost:3000/players
 
 
 
-http://localhost:3000/players/1
+http://localhost:3000/players/
+
+{
+  "playerName": "Vishal",
+  "jerseyNumber": 17,
+  "role": "Bowler"
+}
 
